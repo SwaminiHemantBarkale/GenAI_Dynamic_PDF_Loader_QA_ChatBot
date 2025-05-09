@@ -1,0 +1,9 @@
+gradio
+langchain
+langchain-community
+groq
+langchain-groq
+pypdf
+fastembed
+faiss-cpu
+python-dotenv
